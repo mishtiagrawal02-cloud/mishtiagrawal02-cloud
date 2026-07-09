@@ -1,176 +1,69 @@
-<h1 align="center">
-Hi 👋, I'm Mishti Agrawal
-</h1>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:7F5AF0,50:4F46E5,100:06B6D4&text=Mishti%20Agrawal&fontColor=ffffff&fontSize=58&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Developer%20•%20Open%20Source%20Contributor&descAlignY=60"/>
+</p>
 
 <h3 align="center">
-🚀 Full Stack Developer • AI Enthusiast • Open Source Contributor
+🚀 Building AI-powered applications • Open Source Contributor • Full Stack Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Building+Impactful+Projects;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Developer;Open+Source+Contributor;Building+Scalable+Projects;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mishtiagrawal02-cloud&label=Profile%20Views&color=8B5CF6&style=for-the-badge"/>
 </p>
 
 ---
 
 # 💫 About Me
 
-🎓 Second Year Computer Science Student at Newton School of Technology
-
-💻 Passionate about Full Stack Development
-
-🤖 Exploring AI, Machine Learning & LLMs
-
-🌱 Open Source Contributor
-
-🚀 Building scalable web applications
-
-🏆 Hackathon Participant
+- 🎓 B.Tech CSE Student
+- 💻 Full Stack Developer
+- 🤖 Exploring AI & Machine Learning
+- 🌱 Active Open Source Contributor
+- 🚀 Building real-world projects using React, FastAPI & AI
+- 📫 Reach me at **mishtiagrawal02@gmail.com**
 
 ---
 
-# 🌐 Connect with Me
-
-<p align="left">
-
-<a href="www.linkedin.com/in/mishti-agarwal-4b629437b">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:mishtiagrawal02@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-</p>
-
----
-
-# ⚡ Tech Arsenal
-
-## 🚀 Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts"/>
-
-</p>
-
----
-
-## 🌐 Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,figma"/>
-
-</p>
-
----
-
-## ⚙ Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django"/>
-
-</p>
-
----
-
-## 🛢 Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
-
-</p>
-
----
-
-## 🤖 AI / ML
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-</p>
-
-<p>
-
-NumPy • Pandas • Scikit-Learn • OpenCV
-
-</p>
-
----
-
-## 🛠 Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode"/>
-
-</p>
-
----
-
-# 🧠 Concepts
-
-- REST APIs
-- FastAPI
-- System Design
-- Authentication
-- SQL & NoSQL
-- OOP
-- Data Structures
-- Algorithms
-- Machine Learning
-- Open Source
-
----
-
-# 🚀 Featured Projects
-
-### 📌 TrackVerse
-
-AI powered application tracker.
-
-- FastAPI
-- React
-- SQLite
-- Chrome Extension
-
----
-
-### 📌 AI Legal Assistant
-
-LLM powered legal document analysis.
-
----
-
-### 📌 Financial Fraud Detection
-
-Machine Learning project using classification algorithms.
-
----
-
-# 🏆 Achievements
-
-🥇 Open Source Contributor
-
-🏆 Hackathon Participant
-
-🌱 GSSoC Contributor
-
-💻 Hacktoberfest Contributor
-
----
-
-# 📊 GitHub Stats
+# 🌐 Connect With Me
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mishtiagrawal02-cloud&show_icons=true&theme=tokyonight&hide_border=true"/>
+<a href="https://www.linkedin.com/in/mishti-agarwal-4b629437b/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishtiagrawal02-cloud&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="mailto:mishtiagrawal02@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mishtiagrawal02-cloud">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,react,next,nodejs,express,fastapi,django,mongodb,mysql,postgresql,docker,kubernetes,git,github,firebase,linux,vscode,figma,postman&perline=8"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mishtiagrawal02-cloud&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishtiagrawal02-cloud&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -180,7 +73,7 @@ Machine Learning project using classification algorithms.
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mishtiagrawal02-cloud&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=mishtiagrawal02-cloud&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -190,7 +83,7 @@ Machine Learning project using classification algorithms.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mishtiagrawal02-cloud&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mishtiagrawal02-cloud&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -206,26 +99,60 @@ Machine Learning project using classification algorithms.
 
 ---
 
-# 🏅 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mishtiagrawal02-cloud&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mishtiagrawal02-cloud&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
 
 </p>
 
 ---
 
-# 👀 Profile Views
+# ⚡ Achievements
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=mishtiagrawal02-cloud&label=Profile%20Views&color=0e75b6&style=flat"/>
+![](https://img.shields.io/badge/Open%20Source-Active-8B5CF6?style=for-the-badge)
+
+![](https://img.shields.io/badge/Hacktoberfest-Contributor-6C63FF?style=for-the-badge)
+
+![](https://img.shields.io/badge/GSSOC-Contributor-00BFFF?style=for-the-badge)
+
+![](https://img.shields.io/badge/AI-Enthusiast-7B68EE?style=for-the-badge)
 
 </p>
 
 ---
 
-# 💬 Quote
+# 💭 Random Dev Quote
 
-> "Code. Learn. Build. Repeat."
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ✨ Fun Fact
+
+```text
+while(alive){
+    eat();
+    code();
+    learn();
+    sleep();
+    repeat();
+}
+```
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</p>
